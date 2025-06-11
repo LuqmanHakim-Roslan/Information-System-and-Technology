@@ -13,3 +13,10 @@ From the course, I be able to learn and develop about technology, computer syste
 Also, it's a new experience for me to be in a team with two international students. we work together for various assignments including design thinking report, Innovate Johor poster, CICT report and lastly MaGICX report.
 
 Last but not least, thank you to our lecturer, Dr Aryati who has been helping and dedicated in helping and making sure the students get to finish all the assignments according to the appropriate format.
+
+
+<h2>TIS Sub Topics</h2>
+
+<h2>Chapter 1</h2>
+[1.0 CHAPTER 1 - EMERGING TECHNOLOGY IN ICT 2024.pptx](https://github.com/user-attachments/files/20698332/1.0.CHAPTER.1.-.EMERGING.TECHNOLOGY.IN.ICT.2024.pptx)
+
